@@ -10,15 +10,18 @@ The answers to choice 1 and 2 are calculated and displayed on the output termina
 ## Gathering Relevant Information for the Project
 ### Relevant Theory
 
-Water in a channel exerts pressure on the face of dam which by basic Fluid physics, is given by\
-𝑝(𝑧)=𝜌𝑔(𝐷−𝑧)\
-where p(z) is the pressure on the point at a height\
-‘z’ from the bottom of the dam of total height ‘D’.\
-′𝜌′ is the density of water which is 1000 kg/m3 (assumed constant)\
-‘g’ is the acceleration due to gravity (9.81 m/s2).
+Water in a channel exerts pressure on the face of dam which by basic Fluid physics, is given by
 
-The width of the channel is variable and is given by the equation (Refer to figure for reference)\
-𝑤(𝑧)=(2𝑎𝑧2𝐷2)+𝑏
+𝑝(𝑧)=𝜌𝑔(𝐷−𝑧)
+
+where p(z) is the pressure on the point at a height,\
+'z' from the bottom of the dam of total height 'D',\
+'𝜌' is the density of water which is 1000 kg/m^3 (assumed constant),\
+'g' is the acceleration due to gravity (9.81 m/s2).
+
+The width of the channel is variable and is given by the equation (Refer to figure for reference)
+
+𝑤(𝑧)=(2𝑎(𝑧^2)/(𝐷^2))+𝑏
 
 So, General Force Equation is: 
 
