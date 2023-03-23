@@ -1,8 +1,8 @@
 # Civil-Engineering-Case-Study
 ## Problem Ideentification and Statement
-Our objective is to develop a menu-driven program which presents the user with different options for performing different functions regarding the force due to water pressure on a dam, namely\
-1) determining the force on the dam at a particular point on the dam wall,\
-2) the forces on dam wall for a range of water elevations (d1 to d2), or\
+Our objective is to develop a menu-driven program which presents the user with different options for performing different functions regarding the force due to water pressure on a dam, namely
+1) determining the force on the dam at a particular point on the dam wall,
+2) the forces on dam wall for a range of water elevations (d1 to d2), or
 3) quit the program.
 
 The answers to choice 1 and 2 are calculated and displayed on the output terminal screen. 
@@ -37,11 +37,11 @@ Choice number 1: Finding force on a dam from '0' to 'd'\
 Choice number 2: Finding force on a dam from heights 'd1' to 'd2'\
 Choice number 3: Exit the program\
 Enter choice: 1 (User chooses 1 and inputs variables)\
-Enter D (elevation (in m) of the water surface above the reservoir bottom or depth of channel): 50\ 
-Enter d (elevation of water (which user wants) above channel bottom): 45\ 
-Enter b (width of the channel base): 10\ 
-Enter a (distance from edge to bank of the channel): 6\ 
-Force from 0 to 45 is- 1.15417e+008
+Enter D (elevation (in m) of the water surface above the reservoir bottom or depth of channel): 50\
+Enter d (elevation of water (which user wants) above channel bottom): 45\
+Enter b (width of the channel base): 10\
+Enter a (distance from edge to bank of the channel): 6\
+Force from 0 to 45 is: 1.15417e+008
 
 Choice number 1: Finding force on a dam from '0' to 'd'\
 Choice number 2: Finding force on a dam from heights 'd1' to 'd2'\
