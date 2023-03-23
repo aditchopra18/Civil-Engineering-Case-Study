@@ -10,6 +10,8 @@ The answers to choice 1 and 2 are calculated and displayed on the output termina
 ## Gathering Relevant Information for the Project
 ### Relevant Theory
 
+<img src = "Diagrams/Diagram.png" width = 500>
+
 Water in a channel exerts pressure on the face of dam which by basic Fluid physics, is given by
 
 𝑝(𝑧)=𝜌𝑔(𝐷−𝑧)
@@ -25,10 +27,16 @@ The width of the channel is variable and is given by the equation (Refer to figu
 
 So, General Force Equation is: 
 
+<img src = "Diagrams/Force Equation.png" width = 400>
+
 Or from '0' to 'd', the Force equation is: 
+
+<img src = "Diagrams/Final Force Equation.png" width = 300>
 
 ### Rough Representation of the Program's Working
 See the Image below for the program's representation
+
+<img src = "Diagrams/Rough Working of the Program.png" width = 800>
 
 ## Input/Output Description
 The following shows how the program would execute.
