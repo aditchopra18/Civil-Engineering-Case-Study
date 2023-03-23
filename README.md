@@ -10,7 +10,7 @@ The answers to choice 1 and 2 are calculated and displayed on the output termina
 ## Gathering Relevant Information for the Project
 ### Relevant Theory
 
-<img src = "Diagrams/Diagram.png" width = 500>
+<img src = "Diagrams/Free Body Diagram.png" width = 500>
 
 Water in a channel exerts pressure on the face of dam which by basic Fluid physics, is given by
 
