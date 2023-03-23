@@ -40,21 +40,21 @@ Enter b (width of the channel base): 10\
 Enter a (distance from edge to bank of the channel): 6\ 
 Force from 0 to 45 is- 1.15417e+008
 
-Choice number 1: Finding force on a dam from '0' to 'd'\ 
-Choice number 2: Finding force on a dam from heights 'd1' to 'd2'\ 
-Choice number 3: Exit the program\ 
-Enter choice: 2 (User chooses 2 and inputs values)\ 
-Enter d1 (lower height limit from reservoir bottom): 23\ 
-Enter d2 (upper height limit from reservoir botto): 50\ 
+Choice number 1: Finding force on a dam from '0' to 'd'\
+Choice number 2: Finding force on a dam from heights 'd1' to 'd2'\
+Choice number 3: Exit the program\
+Enter choice: 2 (User chooses 2 and inputs values)\
+Enter d1 (lower height limit from reservoir bottom): 23\
+Enter d2 (upper height limit from reservoir botto): 50\
 Enter a (distance from edge to bank of the channel): 2\
-Enter b (width of channel base): 12\ 
-Enter D (elevation (in m) of the water surface above the reservoir bottom or depth of channel): 55\ 
+Enter b (width of channel base): 12\
+Enter D (elevation (in m) of the water surface above the reservoir bottom or depth of channel): 55\
 Enter Step Value: 3
 
-Elevation-Force\ 
+Elevation-Force\
 23  3.14394e+007
 
-Elevation-Force\ 
+Elevation-Force\
 26  4.02833e+007
 
 Elevation-Force\
