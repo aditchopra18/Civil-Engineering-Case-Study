@@ -91,8 +91,9 @@ Enter choice: 3 (User chooses 3)\
 PROGRAM TERMINATED
 
 ## User Guide
-The program will determine the force on a dam at a particular point. The program contains a menu for performing different functions regarding the force on a dam, namely
-1) determining the force on the dam at a particular point on the dam wall,
-2) the forces on dam wall for a range of water elevations (d1 to d2), or
-3) quit the program. 
+The program will determine the force on a dam at a particular point. The program contains a menu for performing different functions regarding the force on a dam, namely:
+1) Determining the force on the dam at a particular point on the dam wall,
+2) The forces on dam wall for a range of water elevations (d1 to d2), or
+3) Quit the program. 
+
 On running the program the user will be prompted to choose between the above three options. On choosing, user will be prompted to enter values of variables as per choice. To determine the force on the dam at a particular point on dam wall, enter 1, to determine force on range of water elevations, enter 2, to end the program, the user would enter 3.
