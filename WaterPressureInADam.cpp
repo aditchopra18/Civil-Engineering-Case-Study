@@ -1,8 +1,7 @@
 /*
 Author- Adit Chopra
 Date created- 25 September, 2021
-Assignment 1: Civil Engineering Case Study- Water Pressure exerted in a Dam
-ENGR-UH-1000 Computer Programming for Engineers
+Civil Engineering Case Study- Water Pressure exerted in a Dam
 Problem:
 Our objective is to develop a program which presents the user with a menu for performing different functions, namely 
 1) determining the force on the dam, 
